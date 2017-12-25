@@ -25,3 +25,7 @@ ERROR - 2017-12-22 21:59:45 --> Severity: Notice --> Undefined index: subject /v
 ERROR - 2017-12-22 21:59:45 --> Severity: Notice --> Undefined index: message /var/www/html/mp/application/controllers/Contacts.php 56
 ERROR - 2017-12-22 21:59:55 --> 404 Page Not Found: /index
 ERROR - 2017-12-22 22:00:16 --> 404 Page Not Found: /index
+ERROR - 2017-12-22 22:36:55 --> Severity: Notice --> Undefined index: last_login /var/www/html/mp/application/modules/admin/views/home/home.php 26
+ERROR - 2017-12-22 22:36:55 --> Severity: Notice --> Undefined index: last_login /var/www/html/mp/application/modules/admin/views/home/home.php 27
+ERROR - 2017-12-22 22:42:57 --> 404 Page Not Found: /index
+ERROR - 2017-12-22 22:43:28 --> 404 Page Not Found: /index
